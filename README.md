@@ -19,9 +19,9 @@ devtools::install_github("ptredondo/mxfar")
 ```
 
 ## Reproducing Key Results of the MXFAR paper
-We provide here a drive containing the data, pre-loaded outputs and the R codes to reproduce key results of the paper "Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals"
+We provide here a repository containing the EEG data and R codes to reproduce key results of the paper "Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals"
 
-[R Codes, Data and Pre-loaded Outputs](https://drive.google.com/drive/folders/107BasHgYGDK4RSO7ft9J3fzR7jQoTxr9?usp=sharing)
+[R Codes and EEG Data](https://github.com/ptredondo/RCodes_MXFAR_AOAS)
 
 ## Reference
 
