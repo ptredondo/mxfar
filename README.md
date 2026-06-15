@@ -25,5 +25,5 @@ We provide here a repository containing the EEG data and R codes to reproduce ke
 
 ## Reference
 
-  Redondo, Paolo Victor, Raphaël Huser, and Hernando Ombao. (2025). "Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals." *The Annals of Applied Statistics, 19(3)*, 2360--2385.
+  Redondo, Paolo Victor, Raphaël Huser, and Hernando Ombao. (2025). "Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals." *The Annals of Applied Statistics, 19(3)*, 2360-2385.
   [Link to paper]([https://arxiv.org/pdf/2208.00292](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-3/Functional-coefficient-models-for-multivariate-time-series-in-designed-experiments/10.1214/25-AOAS2046.pdf))
